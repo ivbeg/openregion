@@ -1,0 +1,28 @@
+key	name	url	status
+feddist	Федеральные округа		yes
+fedecoregions	Экономические регионы		yes
+mildist	Военный округ		yes
+countryborders	Пограничные регионы		yes
+bysea	Регионы прилегающие к одному морю		yes
+roadrelated	Регионы связанные федеральной автомагистралью		yes
+arbitrdist	Арбитражные округа		yes
+interregassoc	Межрегиональные ассоциации экономического взаимодействия		yes
+econzones	Экономические зоны и макрозоны		no
+railroadreg	Российские железные дороги		yes
+basinrelated	Бассейновые управления		yes
+budgetgroups	Регионы по профициту/дефициту бюджета		no
+ratinggroups	Регионы по кредитным рейтингам		no
+byocean	Регионы прилегающие к океану		yes
+byregtype	Регионы по типу (республика, область, край, автономный округ, автономная область)		yes
+bypipeline	Регионы по трубопроводам		yes
+energyreg	Регионы с наличием крупных энергетических объектов		yes
+miningreg	Регионы в которых идёт добыча ключевых полезных ископаемых		no
+byindustry	Регионы по развитости индустрии		yes
+bytimezone	Регионы по временным зонам		yes
+regbyhdilevel	Регионы по уровню HDI	http://hdr.undp.org/en/reports/nationalreports/europethecis/russia/Russia_NHDR_2010_EN.pdf	no
+notransportregs	Регионы по отсутствию транспортной инфраструктуры		yes
+byorg	Регионы по присутствию межрегиональных организаций		yes
+byclimate	Регионы по климатическим особеностям		no
+byconfession	Регионы с преимущественными конфессиями		yes
+agro	Регионы по сельскохозяйственному значению		yes
+bankregs	Регионы с присутствием банковских организаций		no
